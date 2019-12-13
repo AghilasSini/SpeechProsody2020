@@ -1,0 +1,37 @@
+ffr0001_stimulis_0001|Cela venait du fond, et s’arrêta court dans les bas-côtés de l’église.
+ffr0001_stimulis_0002|Les six hommes, trois de chaque côté, marchaient au petit pas et en haletant un peu.
+ffr0001_stimulis_0003|Les hommes continuèrent jusqu’en bas, à une place dans le gazon où la fosse était creusée.
+ffr0001_stimulis_0004|Enfin on entendit un choc ; les cordes en grinçant remontèrent.
+ffr0009_stimulis_0001|Les Français ne sortaient guère encore, mais les soldats prussiens grouillaient dans les rues.
+ffr0009_stimulis_0002|Les habitants payaient toujours ; ils étaient riches d’ailleurs.
+ffr0009_stimulis_0003|Les quatre femmes marchaient devant, les trois hommes suivaient, un peu derrière.
+ffr0009_stimulis_0004|Alors on parla de lui, de sa tournure, de son visage.
+ffr0011_stimulis_0001|Ce jeune homme était à cheval : deux amis et deux dames l’accompagnaient.
+ffr0011_stimulis_0002|Le choix des armes appartenait, sans aucun doute possible, à notre adversaire.
+ffr0011_stimulis_0003|Il fut effectivement résolu, et la rencontre fut fixée au lendemain neuf heures.
+ffr0011_stimulis_0004|À dix heures, il se retira, et je vis encore de la lumière chez lui deux heures plus tard.
+ffr0012_stimulis_0001|Elle était là, devant lui, étendue sur le dos, au milieu de la route.
+ffr0012_stimulis_0002|Il imaginait qu’elle était partie en voyage, bien loin, depuis longtemps.
+ffr0012_stimulis_0003|Les porteurs glissèrent leurs trois bâtons sous la bière, et l’on sortit de l’église.
+ffr0012_stimulis_0004|Les six hommes, trois de chaque côté, marchaient au petit pas et en haletant un peu.
+mfr0002_stimulis_0001|En une seconde il se débarrassa de la robe et du chapeau, et les jeta au milieu des fourrés.
+mfr0002_stimulis_0002|Ce fut le sourire qui le premier apparut, hésitant, timide comme un rayon de soleil hivernal.
+mfr0002_stimulis_0003|Les bords en étaient guillochés, la plaque d’or par derrière toute meurtrie de coups.
+mfr0002_stimulis_0004|Ils arrivèrent ainsi sur un terre-plein, et tout près de la péniche que masquait encore un rideau de saules.
+mfr0008_stimulis_0001|Il lui donna le logement de son propre valet de chambre, pour l’avoir plus près de lui.
+mfr0008_stimulis_0002|Durant un mois, il remplit les fonctions de garde-malade et passa même plusieurs nuits.
+mfr0008_stimulis_0003|Il voulut s’expliquer ; la parole lui mourut dans la gorge.
+mfr0008_stimulis_0004|Mais son nez n’était plus là, et le mouchoir de batiste ne rencontra que le vide.
+mfr0008_stimulis_0005|Deux heures se passèrent dans l’agitation, le désordre et le bruit.
+mfr0013_stimulis_0001|La mer très calme, sans la moindre vague, en baignait les quilles.
+mfr0013_stimulis_0002|Cela parut leur rendre un peu de courage, car ils se relevèrent brusquement, avides d’en finir.
+mfr0013_stimulis_0003|Il courut jusqu’au volet et l’attira vers lui, emplissant ainsi le grenier de lumière.
+mfr0013_stimulis_0004|Il descendit, chercha dans le verger, fouilla la plaine voisine et le chemin.
+mfr0014_stimulis_0001|Il lui donna le logement de son propre valet de chambre, pour l’avoir plus près de lui.
+mfr0014_stimulis_0002|Deux heures se passèrent dans l’agitation, le désordre et le bruit.
+mfr0014_stimulis_0003|Il arriva pourtant, et comprit à première vue que Romagné était mort.
+mfr0014_stimulis_0004|Quelques amis, bons vivants, égayèrent sa retraite.
+mfr0015_stimulis_0001|les chevaux restaient à l’écurie, le cocher demeurait invisible.
+mfr0015_stimulis_0002|La conversation fut vive, enjouée, pleine de traits.
+mfr0015_stimulis_0003|Le lendemain, un clair soleil d’hiver rendait la neige éblouissante.
+mfr0015_stimulis_0004|Elle restait droite, le regard fixe, la face rigide et pâle, espérant qu’on ne la verrait pas.
